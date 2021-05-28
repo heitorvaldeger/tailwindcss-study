@@ -18651,7 +18651,6 @@ select {
 }
 
 .sticky {
-  position: -webkit-sticky;
   position: sticky;
 }
 
@@ -49273,7 +49272,6 @@ select {
   }
 
   .sm\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -79817,7 +79815,6 @@ select {
   }
 
   .md\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -110361,7 +110358,6 @@ select {
   }
 
   .lg\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -140905,7 +140901,6 @@ select {
   }
 
   .xl\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -171449,7 +171444,6 @@ select {
   }
 
   .\32xl\:sticky {
-    position: -webkit-sticky;
     position: sticky;
   }
 
